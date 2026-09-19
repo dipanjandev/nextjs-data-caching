@@ -1,0 +1,132 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "01 | AeroBeat Pro Wireless Headphones",
+      "category": "Audio",
+      "price": 199.99,
+      "brand": "SoundWave",
+      "inStock": true,
+      "rating": 4.7,
+      "description": "Over-ear noise-canceling headphones featuring 40mm dynamic drivers, 35-hour battery life, and spatial audio support for an immersive listening experience."
+    },
+    {
+      "id": "2",
+      "name": "02 | PulseFit Ultra Smartwatch",
+      "category": "Wearables",
+      "price": 149.5,
+      "brand": "FitCore",
+      "inStock": true,
+      "rating": 4.5,
+      "description": "Water-resistant smartwatch equipped with an AMOLED display, continuous heart rate tracking, blood oxygen monitoring, and integrated multi-band GPS."
+    },
+    {
+      "id": "3",
+      "name": "03 | ViewMaster 27-Inch 4K Monitor",
+      "category": "Monitors",
+      "price": 379,
+      "brand": "ClearView",
+      "inStock": false,
+      "rating": 4.8,
+      "description": "Ultra HD IPS display delivering 99% sRGB color gamut, HDR400 certification, and a 65W USB-C hub for single-cable charging and video transfer."
+    },
+    {
+      "id": "4",
+      "name": "04 | MechStrike RGB Mechanical Keyboard",
+      "category": "Peripherals",
+      "price": 89.99,
+      "brand": "VoltTech",
+      "inStock": true,
+      "rating": 4.6,
+      "description": "Tenkeyless mechanical gaming keyboard with hot-swappable linear switches, per-key RGB backlighting, and durable double-shot PBT keycaps."
+    },
+    {
+      "id": "5",
+      "name": "05 | PowerCore 20,000mAh Power Bank",
+      "category": "Accessories",
+      "price": 49.99,
+      "brand": "ChargeMaster",
+      "inStock": true,
+      "rating": 4.4,
+      "description": "High-capacity external battery pack with 65W USB-C Power Delivery, capable of fast-charging laptops, tablets, and smartphones on the go."
+    },
+    {
+      "id": "6",
+      "name": "06 | EchoSphere 360 Smart Speaker",
+      "category": "Smart Home",
+      "price": 79.95,
+      "brand": "HomeSync",
+      "inStock": true,
+      "rating": 4.3,
+      "description": "Compact smart home speaker offering 360-degree omnidirectional sound, built-in voice assistant control, and seamless Zigbee hub connectivity."
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "author": "Robert C. Martin",
+      "genre": "Software Engineering",
+      "price": 34.99,
+      "pages": 464,
+      "inStock": true,
+      "rating": 4.7,
+      "description": "A practical guide to writing readable, maintainable code with actionable refactoring techniques and best practices."
+    },
+    {
+      "id": "2",
+      "title": "Designing Data-Intensive Applications",
+      "author": "Martin Kleppmann",
+      "genre": "System Design",
+      "price": 42.5,
+      "pages": 616,
+      "inStock": true,
+      "rating": 4.9,
+      "description": "An in-depth breakdown of the principles, trade-offs, and architectures behind reliable, scalable, and maintainable systems."
+    },
+    {
+      "id": "3",
+      "title": "The Pragmatic Programmer",
+      "author": "David Thomas, Andrew Hunt",
+      "genre": "Software Engineering",
+      "price": 39.95,
+      "pages": 352,
+      "inStock": false,
+      "rating": 4.8,
+      "description": "Classic career and technical advice covering everything from architectural design to personal responsibility in software development."
+    },
+    {
+      "id": "4",
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "genre": "Self-Help",
+      "price": 18.99,
+      "pages": 320,
+      "inStock": true,
+      "rating": 4.8,
+      "description": "A framework for forming good habits, breaking bad ones, and mastering the tiny behaviors that lead to remarkable results."
+    },
+    {
+      "id": "5",
+      "title": "Deep Work: Rules for Focused Success in a Distracted World",
+      "author": "Cal Newport",
+      "genre": "Productivity",
+      "price": 21.0,
+      "pages": 304,
+      "inStock": true,
+      "rating": 4.6,
+      "description": "Explores the value of intense concentration and provides actionable rules to eliminate cognitive distractions."
+    },
+    {
+      "id": "6",
+      "title": "Refactoring: Improving the Design of Existing Code",
+      "author": "Martin Fowler",
+      "genre": "Software Engineering",
+      "price": 44.99,
+      "pages": 448,
+      "inStock": true,
+      "rating": 4.7,
+      "description": "A comprehensive catalog of refactorings that explain how to systematically improve legacy architecture without breaking functionality."
+    }
+  ]
+}
